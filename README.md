@@ -57,7 +57,7 @@ Program to implement the given logic function and to verify its operations in qu
 
 Developed by: CHARUKESH S
 
-Register Number: 2122
+Register Number: 212224230044
 ```
 i)F1
 module funct1(a,b,c,d,f1);
